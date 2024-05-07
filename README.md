@@ -28,6 +28,15 @@
 - 📄 Know about my experiences [https://xxxxxxxxxxxx](https://xxxxxxxxxxxx)
 
 - ⚡ Most priority for me **I like to take on new challenges for my programming skill**
+<!--
+
+## See GitHub Repository, Experience, Commit, Pull Request, Star, Follow, Review
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnikHadi)](https://github.com/AnikHadi/github-profile-trophy) -->
+
+## See GitHub Repository, Experience, Commit, Pull Request, Star, Follow, Review
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnikHadi&theme=onedark)](https://github.com/AnikHadi/github-profile-trophy)
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
