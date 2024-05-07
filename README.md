@@ -1,50 +1,84 @@
-# <p align='center'> Hi 👋 </p>
+[![MasterHead](https://www.ismartcom.com/hs-fs/hubfs/ai%20imp.gif?width=600&name=ai%20imp.gif)](https://github.com/HadiAnik)
 
-<!-- ---
+<h1 align="center">Hi 👋, I'm MD Hadiuzzaman Anik</h1>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-![Brand](firstCover.jpg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadianik&label=Profile%20views&color=0e75b6&style=flat" alt="hadianik" /> </p>
 
---- -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadianik" alt="hadianik" /></a> </p>
 
-**ABOUT ME...**
-<p align='center'>
-<h4> I am a front-end engineer and an adept technical writer. I have a great passion for creating user-friendly and accessible web applications using different technologies </h4> 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
- Checkout my portfolio - **[MY PORTFOLIO](https://github.com/HadiAnik/)** 
+- 🔭 I’m currently working on [Product Cart System](https://funny-rugelach-0e1205.netlify.app/)
 
-- 👯 I’m looking for ways to contribute meaningfully to Open Source projects, documentations, and communities. [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+- 🌱 I’m currently learning **React Redux**
 
-- 💬 Ask me about: Javascript,Technical Writing,Vue❤️ 
--  👩‍💻 Currently learning: React-Redux
-- ⚡ Fun fact: I love watching and giving reviews on [movies](................................) 😜
+- 👯 I’m looking to collaborate on [Open-Source Projects](https://xxxxxxxxxxxx)
 
-**TECHNOLOGIES I WORK WITH**
+- 🤝 I’m looking for help with [React Redux](https://xxxxxxxxxxxx)
 
-![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=bootstrap)
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
-![ReactJs](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
-![Vue Js](https://img.shields.io/badge/Vue-41b883?style=for-the-badge&logo=vue.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=blue)
+- 👨‍💻 All of my projects are available at [Portfolio](https://hadiuzzaman.netlify.app/)
 
+- 📝 I regularly write articles on [https://xxxxxxxxxxxx](https://xxxxxxxxxxxx)
 
+- 💬 Ask me about **JavaScript, Python, React.js, Next.js, Redux, React Native, Node.js for Backend, MongoDB with Mongoose**
 
- 🌐 **REACH ME ON**
+- 📫 How to reach me **hadiuzzamananik@gmail.com**
 
-<!-- ---
+- 📄 Know about my experiences [https://xxxxxxxxxxxx](https://xxxxxxxxxxxx)
 
-- [![Linkedin:AbiolaFarounbi](https://img.shields.io/badge/-AbiolaFarounbi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abiola-farounbi-94ba571a0/)](https://www.linkedin.com/in/abiola-farounbi-94ba571a0/)
-- [![Twitter: abiolaesther_](https://img.shields.io/twitter/follow/abiolaesther_?style=social)](https://twitter.com/abiolaesther_)
+- ⚡ Most priority for me **I like to take on new challenges for my programming skill**
 
---- -->
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
+<h1 align="center">大家好 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">我叫何漫，很高兴认识你！</h1>
+<h3 align="center"> <a href="http://english.ynu.edu.cn/" target="_blank">YNU</a> Graduate</h3>
+<h4 align="center"> I always consider my tasks as my first priority. I like Coding Very Much. </br>
+My Study field is Software Engineering from My Diploma Course, I am a passionate Student and Developer in the Software field who loves to keep learning new technologies and applying those new technologies to solve some issues which exist in Real-World.
+</br>I have Finished My Bachelor's Degree with a Major in Software Engineering From a prestigious School. Most of the time I spend learning some amazing technologies and sharing my ideas with others. </h4>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/hadianik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hadianik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hadiuzzaman9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-hadiuzzaman-938122209" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17761154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17761154" height="30" width="40" /></a>
+<a href="https://fb.com/anik.hadi.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anik.hadi.7" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hadiuzzamananik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hadiuzzamananik" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/hadiuzzamananik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hadiuzzamananik" height="30" width="40" /></a>
+<a href="https://discord.gg/AnikHadi#2419" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AnikHadi#2419" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-**GITHUB STAT'S**
+# Few Project
 
-![stats](https://github-readme-stats.vercel.app/api?username=AnikHadi&show_icons=true&theme=synthwave)
+- <a href="https://ema-jhon-simple-aac4c.web.app/" target="_blank">Ema John Shop</a>
+- <a href="https://genius-car-service-8c8f2.web.app/" target="_blank">Genius Car Service</a>
 
-[![GitHub Anik Hadi](https://img.shields.io/github/followers/AnikHadi?label=follow&style=social)](https://github.com/AnikHadi) 
+## Redux all project need server for data
+
+- <a href="https://funny-rugelach-0e1205.netlify.app/" target="_blank">Scoreboard Application</a>
+- <a href="https://radiant-moonbeam-99bfde.netlify.app/" target="_blank">Flight Booking Application</a>
+- <a href="https://comfy-souffle-50b2ba.netlify.app/" target="_blank">Todo application</a>
+- <a href="https://superb-zabaione-88bbc2.netlify.app/" target="_blank">product cart</a>
+- <a href="https://famous-gelato-e35740.netlify.app/" target="_blank">Video gallery</a>
+- <a href="https://visionary-baklava-751a50.netlify.app/" target="_blank">Blog Application</a>
+- <a href="https://capable-buttercream-08eb8b.netlify.app/" target="_blank">Expense Tracker</a>
+- <a href="https://fastidious-gelato-cafada.netlify.app/" target="_blank">Job Finder</a>
+- <a href="https://tiny-mandazi-4693fc.netlify.app/" target="_blank">Book Store Management RTK Qurey</a>
+- <a href="https://silver-kulfi-f75ece.netlify.app/" target="_blank">Task Manager RTK Query</a>
+- <a href="https://voluble-starburst-000673.netlify.app/" target="_blank">Product Details</a>
+- <a href="https://inquisitive-starburst-a7efc5.netlify.app/" target="_blank"> Learning Portal</a>
+
+## Core coding Project with PHP Backend
+
+- <a href="https://www.aladdinmartbd.com/" target="_blank">AladdinMartBD</a>
+
+<!-- - <a href="https://funny-rugelach-0e1205.netlify.app" target="_blank">Scoreboard Application</a> -->
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnikHadi&show_icons=true&locale=en&layout=compact" alt="AnikHadi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnikHadi&show_icons=true&locale=en" alt="AnikHadi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnikHadi&" alt="AnikHadi" /></p>
